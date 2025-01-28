@@ -47,18 +47,18 @@ npm run dev
 
 ## How to Use
 
-# Text Translation:
+- **Text Translation**
 Type the text you want to translate in the "From" input field.
 Choose the languages you want to translate between.
 Click the "Translate" button to view the translated text.
-# Image Translation:
+- **Image Translation**
 Click the "Upload an image" button or drag and drop an image.
 The app will process the image using OCR to extract any text, then automatically translate it.
-# Speech Translation:
+- **Speech Translation**
 Click the speaker icon to listen to the translated text.
-# Translation History:
+- **Translation History**
 Keep track of your previous translations for easy access and reference.
-# Contributing
+- **Contributing**
 We welcome contributions! To contribute:
 
 ## Fork the repository.
